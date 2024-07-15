@@ -1,0 +1,7 @@
+/* estrutura para ajustar resoluçoes e definir o que será mostrado e feito dentro delas*/
+@media screen and (max-width: 1015px) {
+    .offer__list-item{
+       /*definiçao de quantas colunas sçao desejadas*/ 
+        grid-template-columns: 1fr 1fr;
+    }
+}
